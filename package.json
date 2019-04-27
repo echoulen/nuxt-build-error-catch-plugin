@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-build-error-catch-plugin",
+  "version": "1.0.0",
+  "description": "A plugin for Nuxt js which no catch error on CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echoulen/nuxt-build-error-catch-plugin.git"
+  },
+  "keywords": [
+    "nuxt",
+    "ci",
+    "build",
+    "error"
+  ],
+  "author": "carlos <echoulen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/echoulen/nuxt-build-error-catch-plugin/issues"
+  },
+  "homepage": "https://github.com/echoulen/nuxt-build-error-catch-plugin#readme"
+}
